@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora de Comisiones",
+  "description": "Calculadora minimalista de salario y comisiones basada en metas de venta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
